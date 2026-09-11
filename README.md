@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IsaqueMoradadev/IsaqueMoradaDEV/main/assets/banner-github.png" alt="Banner Isaque Morada" width="100%" />
-
+<img src="./assets/banner.jpg" width="100%" />
 # 👋 Olá, eu sou Isaque Morada
 
 ### 📊 Data Analyst | Business Intelligence
